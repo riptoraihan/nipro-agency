@@ -1,0 +1,258 @@
+ /*Extra small devices (portrait phones, less than 576px)*/
+@media (min-width: 320px) and (max-width: 575.98px) { 
+/*header start*/
+
+        .n_serch a {
+    padding: 0% 19px;
+}
+.cdm[data-bs-popper] {
+    left: 17px;
+    margin-top: -40px;
+}
+    .cdm {
+    min-width: 273px;
+    padding: 3px 6px 0 56px;
+}
+.s_input {
+    margin: 1px -45px;
+    width: 123%;
+    height: 34px;
+}
+    .s_btn {
+    height: 40px;
+}
+/*header end*/
+/*slider start*/
+.c-next {
+    right: 0;
+}
+.c-item h1 {
+    margin-top: -188px;
+    font-size: 39px;
+}
+.c-item p {
+    font-size: 12px;
+    margin-top: 26px;
+    margin-bottom: 31px;
+}
+.cm-btn_a {
+    padding: 5px 3px !important;
+}
+.cm-btn {
+    padding: 4px 8px;
+}
+.cm-btn {
+    margin-top: -10px;
+    padding: 4px 8px;
+}
+.c-item {
+    padding-bottom: 20vh;
+}
+.c-item {
+    padding-top: 35vh;
+}
+.line {
+    height: 41px;
+    margin-top: 10px;
+}
+.slider-indicator {
+    left: 135px;
+}
+/*slider end*/
+/*welcome start*/
+.wlcm-third-row {
+    padding-top: 36px;
+    padding-bottom: 25px;
+}
+.p_title {
+    margin-top: 18px;
+    font-size: 12px;
+    color: #8e8e8e;
+}
+.till_styl h1 {
+    font-size: 25px;
+}
+/*welcome end*/
+/*About US start*/
+.cm-title {
+    margin-top: 13px !important;
+    font-size: 29px !important;
+}
+.middle-p {
+    font-size: 12px !important;
+    margin-top: 21px !important;
+}
+.last-p {
+    margin-bottom: 5px !important;
+    font-size: 11px !important;
+}
+.cm-title {
+    border-bottom: 1px solid !important;
+    margin-top: 13px !important;
+    font-size: 29px !important;
+}
+.cm-btn_a {
+    padding: 6px 84px;
+    margin-bottom: -30px;
+}
+/*About US end*/
+}
+
+ /*Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+/*header start*/
+
+    .n_serch a {
+    padding: 0% 19px;
+}
+    .cdm {
+    min-width: 316px;
+    padding: 3px 5px;
+}
+    .cdm[data-bs-popper] {
+    top: -5px;
+    left: 64px;
+    margin-top: 0;
+}
+/*header end*/
+/*slider start*/
+.c-next {
+    right: 70%;
+}
+/*slider end*/
+/*About US start*/
+.cm-title {
+    margin-top: 23px !important;
+    font-size: 33px !important;
+}
+.middle-p {
+    font-size: 15px !important;
+    margin-top: 20px !important;
+    margin-bottom: 19px !important;
+}
+.last-p {
+    margin-bottom: 12px !important;
+    font-size: 16px !important;
+}
+.cm-btn_a {
+    padding: 6px 9px !important;
+    margin-bottom: -25px !important;
+}
+
+/*About US end*/
+}
+
+ /*Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+/*header start*/
+
+    .n_serch a {
+    padding: 0% 20px;
+}
+    .cdm[data-bs-popper] {
+    top: -4px;
+    left: 70px;
+    margin-top: 0;
+}
+/*header end*/
+/*slider start*/
+.c-next {
+    right: 78%;
+}
+/*slider end*/
+/*About US start*/
+.cm-title {
+    margin-top: -20px !important;
+    font-size: 28px !important;
+}
+.middle-p {
+    font-size: 12px !important;
+    margin-top: 0px !important;
+    margin-bottom: 12px !important;
+}
+.last-p {
+    margin-bottom: 28px !important;
+    font-size: 13px !important;
+}
+.cm-btn_a {
+    padding: 7px 7px !important;
+    margin-bottom: 0px !important;
+}
+/*About US end*/
+}
+
+ /*Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+/*slider strat*/
+.c-next {
+    right: 83%;
+}
+.slider-indicator {
+    left: 87px;
+}
+/*slider end*/
+ }
+/*About US start*/
+.cm-title {
+    margin-top: -22px;
+    font-size: 32px;
+}
+.middle-p {
+    font-size: 15px;
+    margin-top: 56px;
+    margin-bottom: 26px;
+}
+.last-p {
+    margin-bottom: 19px;
+    font-size: 16px;
+}
+.cm-btn_a {
+    padding: 6px 10px;
+    margin-bottom: -26px;
+}
+/*About US end*/
+
+/*Large devices (desktops, 1200px and up)*/
+@media (min-width: 1200px) and (max-width: 1399.98px) { 
+/*slider start*/
+.c-next {
+    right: 86%;
+}
+.slider-indicator {
+    left: 83px;
+}
+/*slider end*/
+/*About US start*/
+.cm-title {
+    font-size: 38px;
+}
+.middle-p {
+    font-size: 16px;
+    margin-top: 35px;
+    margin-bottom: 32px;
+}
+.last-p {
+    font-size: 15px;
+}
+/*About US end*/
+}
+
+ /*Extra large devices (large desktops, 1400px and up)*/
+@media (min-width: 1400px) { 
+/*About US start*/
+.cm-title{
+    font-size: 35px;
+}
+.middle-p{
+    font-size: 17px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+.last-p{
+    font-size: 16px;
+}
+.cm-btn_a{
+    padding: 10px 30px;
+}
+/*About US end*/
+}

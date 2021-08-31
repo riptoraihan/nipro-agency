@@ -1,0 +1,20 @@
+~font~
+font-family: 'Roboto', sans-serif;
+font-family: 'Lato', sans-serif;
+
+~color~
+dark #333333
+ash #8e8e8e
+
+We Have Talented Team
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. hello Lorem Ipsum has been the industry's stanard dummy text ever since the  hello  bossLorem Ipsum is simply dummy text of the printing
+
+Learn More    
+
+Next
+Prev
+
+
+
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever he to since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not  centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the er including versions of Lorem Ipsum.
